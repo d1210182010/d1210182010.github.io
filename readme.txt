@@ -8,7 +8,7 @@ it is flexible and easy to customize so you can even use this template as a
 creative, business or portfolio site for your company.
 
 ==================================================================================================
-
+***
 
 LICENSE:
 
